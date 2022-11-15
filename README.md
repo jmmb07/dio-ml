@@ -7,3 +7,4 @@ Códigos do curso de Machine Learning da DIO.me:
 4) Uma rede yolo (darknet) para treinada para predição de reconhecer carros/motos: [yolov4](https://github.com/jmmb07/dio-ml/tree/main/yolo)
 5) Uma rede de reconhecimento facial treinada para reconhecer os jogadores Messi e Cristiano Ronaldo: [face recognition](https://github.com/jmmb07/dio-ml/tree/main/face%20recognition%20mtcnn);
 6) Rede treinada para retornar as 5 imagens mais similares com a imagem de entrada (rede de recomendação de produtos): [recomendation.py](https://github.com/jmmb07/dio-ml/blob/main/product%20recomendation/recomendation.py).
+7) Assistente virtual em pt-br: [assistente_virtual pt-br.py](https://github.com/jmmb07/dio-ml/blob/main/assistente%20virtual/assistente_virtual%20pt-br.py)

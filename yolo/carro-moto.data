@@ -1,0 +1,5 @@
+classes= 2
+train  = F:\Downloads\yolo\train.txt
+valid  = F:\Downloads\yolo\test.txt
+names = F:\Downloads\yolo\labels.txt
+backup = F:\Downloads\yolo\backup\
